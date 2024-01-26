@@ -1,7 +1,9 @@
 !!! NOT FINISHED YET !!!
 
 I download lots of files. I delete lots of files. 
+
 It's annoying to click through every single subdirectory to find the big files to delete. Also, the native windows GUI is pretty unintuitive for this purpose. 
+
 What if you could tell a script to scan your machine and spit out shortcuts to the top 10 largest files? Hassle free.
 
 Also supports (hopefully, in the future): top "X" files, image extension and file attribute filtering (inclusive and exclusive)
