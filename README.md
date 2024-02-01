@@ -11,4 +11,4 @@ Uses os.walk, aka scandir, to do the combing. Uses numpy to make the data matrix
 
 !!! NOT FINISHED YET !!!
 
-This is also my first ever code project! So, if you have any feedback, please tell me! (Yes this could be a bash script I know, I'm in too deep now)
+This is also my first ever code project! So, if you have any feedback, please tell me! (Yes this could be a bash script I know, I'm in too deep now). In its current state, it is functional. Will rewrite the whole thing to be way more efficient later, or until someone on this website asks me to
